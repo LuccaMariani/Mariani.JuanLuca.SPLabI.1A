@@ -1,0 +1,124 @@
+# depslib dependency file v1.0
+1606091494 source:c:\users\thomas pc\onedrive\desktop\tps\tp 1\parcial 2 bicicletas\utn.c
+	"utn.h"
+
+1606091494 c:\users\thomas pc\onedrive\desktop\tps\tp 1\parcial 2 bicicletas\utn.h
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+
+1606091692 source:c:\users\thomas pc\onedrive\desktop\tps\tp 1\parcial 2 bicicletas\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+	"Bici.h"
+
+1606091494 c:\users\thomas pc\onedrive\desktop\tps\tp 1\parcial 2 bicicletas\linkedlist.h
+
+1606267630 c:\users\thomas pc\onedrive\desktop\tps\tp 1\parcial 2 bicicletas\bici.h
+
+1606267088 source:c:\users\thomas pc\onedrive\desktop\tps\tp 1\parcial 2 bicicletas\main.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"utn.h"
+	"Bici.h"
+	"parcer.h"
+
+1606091494 c:\users\thomas pc\onedrive\desktop\tps\tp 1\parcial 2 bicicletas\parcer.h
+
+1606267383 source:c:\users\thomas pc\onedrive\desktop\tps\tp 1\parcial 2 bicicletas\parcer.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Bici.h"
+	"parcer.h"
+
+1606266137 source:c:\users\thomas pc\onedrive\desktop\tps\tp 1\parcial 2 bicicletas\bici.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+	"Bici.h"
+
+1606314154 source:c:\users\sentey\desktop\parcial 2 bicicletas\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"LinkedList.h"
+	"menu.h"
+	"bicicleta.h"
+
+1606313281 c:\users\sentey\desktop\parcial 2 bicicletas\linkedlist.h
+
+1606311265 c:\users\sentey\desktop\parcial 2 bicicletas\bici.h
+
+1606306326 source:c:\users\sentey\desktop\parcial 2 bicicletas\main.c
+	<stdio.h>
+	<stdlib.h>
+	"menu.h"
+
+1606091494 c:\users\sentey\desktop\parcial 2 bicicletas\utn.h
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+
+1606310540 c:\users\sentey\desktop\parcial 2 bicicletas\parcer.h
+
+1606311398 source:c:\users\sentey\desktop\parcial 2 bicicletas\parcer.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"bicicleta.h"
+	"parcer.h"
+
+1606306435 source:c:\users\sentey\desktop\parcial 2 bicicletas\utn.c
+	"utn.h"
+
+1606311244 source:c:\users\sentey\desktop\parcial 2 bicicletas\bici.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"menu.h"
+	"Bici.h"
+	"LinkedList.h"
+	"parcer.h"
+	"utn.h"
+
+1606314771 source:c:\users\sentey\desktop\parcial 2 bicicletas\menu.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"utn.h"
+	"bicicleta.h"
+	"menu.h"
+	"parser.h"
+
+1606312380 c:\users\sentey\desktop\parcial 2 bicicletas\menu.h
+	"LinkedList.h"
+
+1606313229 c:\users\sentey\desktop\parcial 2 bicicletas\bicicleta.h
+
+1606314877 source:c:\users\sentey\desktop\parcial 2 bicicletas\bicicleta.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"menu.h"
+	"bicicleta.h"
+	"LinkedList.h"
+	"parser.h"
+	"utn.h"
+
+1606310540 c:\users\sentey\desktop\parcial 2 bicicletas\parser.h
+
+1606314154 source:c:\users\sentey\desktop\parcial 2 bicicletas\parser.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"bicicleta.h"
+	"parser.h"
+
